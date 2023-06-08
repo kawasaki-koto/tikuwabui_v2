@@ -2,7 +2,7 @@
     {
         "name": "Basic-NegativePrompt",
         "terms": "Basic,Negative,Low,Quality",
-        "content": "(worst quality, low quality, normal quality)",
+        "content": "(worst quality, low quality:1.4), (monochrome:1.1), (easynegative:0.8)",
         "color": 3
     },
     {
